@@ -345,7 +345,7 @@ async function connectToWhatsApp() {
                 if (command === 'menu') {
                     // Kirim gambar hozoo.jpg
                     try {
-                        await sendImage(sock, sender, 'https://raw.githubusercontent.com/yourusername/yourrepo/main/hozoo.jpg', 
+                        await sendImage(sock, sender, 'https://github.com/devhozo88/BOT_WA2025/blob/main/hozoo.jpg', 
                             `╔═══════════════════════════
 ║  🤖 *BOT WHATSAPP LORDHOZOO* 🚀
 ║  ⏰ ${new Date().toLocaleTimeString('id-ID')}
